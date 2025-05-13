@@ -181,7 +181,7 @@ const Footer = () => {
                 Himansu Maharana & Ashlesha Patnaik
               </Link>
             </div>
-            <span> © 2025 Studynotion</span>
+            <span>  © 2025 Studynotion</span>
           </div>
 
           <div className="flex items-center">
